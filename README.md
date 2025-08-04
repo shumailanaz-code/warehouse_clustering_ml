@@ -78,7 +78,3 @@ This model will help the company in identifying:
 5. Run all cells to view clustering results and visualizations.
 
 ---
-
-## 📂 Data Source
-- File Name: Warehouse_data.csv
-- Source: Kaggle
